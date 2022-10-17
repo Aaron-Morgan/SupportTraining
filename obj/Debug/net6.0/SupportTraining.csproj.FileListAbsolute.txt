@@ -1,0 +1,15 @@
+D:\Documents\Programming\SupportTraining\bin\Debug\net6.0\SupportTraining.exe
+D:\Documents\Programming\SupportTraining\bin\Debug\net6.0\SupportTraining.deps.json
+D:\Documents\Programming\SupportTraining\bin\Debug\net6.0\SupportTraining.runtimeconfig.json
+D:\Documents\Programming\SupportTraining\bin\Debug\net6.0\SupportTraining.dll
+D:\Documents\Programming\SupportTraining\bin\Debug\net6.0\SupportTraining.pdb
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\SupportTraining.csproj.AssemblyReference.cache
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\SupportTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\SupportTraining.AssemblyInfoInputs.cache
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\SupportTraining.AssemblyInfo.cs
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\SupportTraining.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\SupportTraining.dll
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\refint\SupportTraining.dll
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\SupportTraining.pdb
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\SupportTraining.genruntimeconfig.cache
+D:\Documents\Programming\SupportTraining\obj\Debug\net6.0\ref\SupportTraining.dll
